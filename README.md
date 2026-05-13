@@ -32,3 +32,16 @@ Fuente: [Kaggle — Lending Club Loan Data](https://www.kaggle.com/datasets/utka
 - Tasa de mora efectiva: 3.6% vs benchmark nacional 4.5%
 
 ## Estructura del repositorio
+modelo-credito-cirugias-plasticas/
+├── modelo_credito_cirugias_v2.ipynb
+├── reporte/
+│   └── Modelo_de_Credito_Proyecto_Final_Reporte.pdf
+├── presentacion/
+│   └── Modelos_de_Credito_Presentacion.pdf
+└── README.md
+
+## Autores
+
+Mónica Valeria Jáuregui · Mariana Ripoll · Sofia Vazquez Guerrero  
+Ricardo Ibarra · Alberto Marin · Luis Fernando Ramirez  
+ITESO — Mayo 2026
